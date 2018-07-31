@@ -11,5 +11,7 @@ class App < Sinatra::Base
   end
 
   get 'secret-page' do
+    
+  end  
 
 end
