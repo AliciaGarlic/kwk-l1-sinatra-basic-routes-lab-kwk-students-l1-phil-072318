@@ -10,4 +10,6 @@ class App < Sinatra::Base
   "Alicia Garlic"
   end
 
+  get 'secret-page' do
+
 end
